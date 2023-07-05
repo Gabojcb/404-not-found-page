@@ -60,5 +60,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Gabojc](https://github.com/Gabojcb)
-- Twitter [@gabrieljcb31](https://{twitter.com/gabrieljcb31})
+- GitHub [@Gabojcb](https://github.com/Gabojcb)
+- Twitter [@gabrieljcb31](https://twitter.com/Gabrieljcb31)
